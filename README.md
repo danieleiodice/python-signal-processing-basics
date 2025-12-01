@@ -1,5 +1,5 @@
 # python-signal-processing-basics
-Generazione di un segnale sinusoidale, aggiunta di rumore gaussiano e filtraggio tramite media mobile.
+Generazione di un segnale sinusoidale, aggiunta di rumore gaussiano e filtraggio tramite media mobile. Creato per mettere in pratica le competenze acquisite durante lo studio autonomo delle librerie NumPy e Matplotlib.
 
 ## Descrizione
 Questo progetto genera un segnale sinusoidale, aggiunge rumore gaussiano e applica una media mobile per filtrarlo. L’obiettivo è mostrare in modo semplice come creare, contaminare e ripulire un segnale usando le librerie NumPy e Matplotlib.
